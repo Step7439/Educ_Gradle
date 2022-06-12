@@ -1,0 +1,5 @@
+rootProject.name = 'Educ_Gradle'
+include 'db'
+include 'api'
+include 'service'
+
